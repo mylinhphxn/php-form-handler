@@ -18,14 +18,5 @@
 
   ?>
 
-<<<<<<< HEAD
-=======
-     <?php
-    echo '<p>This is a change from replit!</p>';
-    ?>
-
-    <p>This is a change from vscode</p>
-  
->>>>>>> origin/main
   </body>
 </html>
