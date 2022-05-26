@@ -7,6 +7,10 @@
     <?php
     echo '<p>This is PHP!</p>';
     ?>
+
+     <?php
+    echo '<p>This is a change from replit!</p>';
+    ?>
   
   </body>
 </html>
